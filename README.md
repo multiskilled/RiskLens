@@ -4,6 +4,25 @@
 
 RiskLens flags risk signals using deterministic SQL rules and lets analysts ask natural-language questions, inspect evidence, manage cases, draft findings with AI assistance, and download draft investigation reports.
 
+<table>
+  <tr>
+    <td width="50%">
+      <img src=".cortex/plans/img1.png" alt="RiskLens Dashboard" width="100%">
+    </td>
+    <td width="50%">
+      <img src=".cortex/plans/img4.png" alt="RiskLens Investigation" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src=".cortex/plans/img3.png" alt="RiskLens Cases" width="100%">
+    </td>
+    <td width="50%">
+      <img src=".cortex/plans/img2.png" alt="RiskLens Reports" width="100%">
+    </td>
+  </tr>
+</table>
+
 > **Prototype disclaimer:** All data is synthetic. Policy documents are illustrative and are not real regulatory text. Risk signals are reasons to investigate, not proof of fraud. Reports are drafts that require human review. Nothing is submitted to a regulator.
 
 ## Table of Contents
